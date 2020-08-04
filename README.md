@@ -8,4 +8,5 @@ Put the images in the image directory under your script.\
 Run script with crontab or something and pipe it to the index.html
 
 ### TODO
-Make it print out a file all by it's lonesome
+[x]Make it print out a file all by it's lonesome\
+[x]Timestamp the produced file
